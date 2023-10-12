@@ -26,8 +26,4 @@ Chức năng trợ lý ảo:
 - Tra thông tin thời tiết
 - Thông báo lịch làm việc, mở nhạc
 
-https://www.youtube.com/watch?v=WEzeviP4wOg
-<video src="https://www.youtube.com/watch?v=WEzeviP4wOg" controls>
-  Your browser does not support the video tag.
-</video>
-
+[![haha](https://img.youtube.com/vi/WEzeviP4wOg/0.jpg)](https://www.youtube.com/watch?v=WEzeviP4wOg)
