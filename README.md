@@ -14,7 +14,6 @@ Giao thức truyèn thông:
 - MQTT: giao tiếp giữa các ESP và trợ lý ảo với broker MQTT
 Sử dụng thư viện ESP8266WebServer và ngôn ngữ đánh dấu html,css tạo giao diện cho truy cập webserver ESP8266 để thực hiện điều khiển các cơ cấu chấp hành tương ứng
 
-<video src="https://www.youtube.com/watch?v=PdVACyaYFmE" width=180/>
 https://www.youtube.com/watch?v=PdVACyaYFmE
 
 Xây dựng trợ lý ảo bằng python:
