@@ -26,5 +26,7 @@ Chức năng trợ lý ảo:
 - Thông báo lịch làm việc, mở nhạc
 
 Video thực hiện
+
 https://www.youtube.com/watch?v=PdVACyaYFmE
+
 https://www.youtube.com/watch?v=WEzeviP4wOg
