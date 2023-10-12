@@ -18,8 +18,9 @@ Xây dựng trợ lý ảo bằng python:
 - speech_recognition: Nhận dạng giọng nói thành văn bản
 - pyttsx3: Chuyển văn bản thành giọng nói
 - paho-mqtt: gửi nhận tin nhắn từ broker MQTT (mosquitto)
-- requests: gửi các yêu cầu HTTP và xử lý các phản hồi (lấy thông tin thời tiết từ openweaher)
+- requests: gửi các yêu cầu HTTP và xử lý các phản hồi (lấy thông tin thời tiết từ openweathermap)
 - subprocess: thực thi các lệnh hệ thống từ Python
+
 Chức năng trợ lý ảo:
 - Điều khiển các thiết bị trong nhà
 - Tra thông tin thời tiết
