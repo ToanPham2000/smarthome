@@ -12,7 +12,9 @@ Giao thức truyèn thông:
 - SPI: giao tiếp giữa Arduino và RC-522
 - MQTT: giao tiếp giữa các ESP và trợ lý ảo với broker MQTT
 Sử dụng thư viện ESP8266WebServer và ngôn ngữ đánh dấu html,css tạo giao diện cho truy cập webserver ESP8266 để thực hiện điều khiển các cơ cấu chấp hành tương ứng
+
 https://www.youtube.com/watch?v=PdVACyaYFmE
+
 Xây dựng trợ lý ảo bằng python:
 - speech_recognition: Nhận dạng giọng nói thành văn bản
 - pyttsx3: Chuyển văn bản thành giọng nói
