@@ -22,4 +22,6 @@ Chức năng trợ lý ảo:
 - Điều khiển các thiết bị trong nhà
 - Tra thông tin thời tiết
 - Thông báo lịch làm việc, mở nhạc
+
 https://www.youtube.com/watch?v=WEzeviP4wOg
+
