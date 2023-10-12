@@ -7,6 +7,7 @@ Mô hình nhà thông minh gồm chức năng:
 -	Cảm biến ánh sáng tự động bật tắt đèn.
 -	Bật tắt các thiết bị qua internet và giọng nói.
 ![z4568368815493_32c9d24dc2caa742c23726ae1a305c25](https://github.com/ToanPham2000/home/assets/142808050/bfd34531-00ae-4bde-8909-0c70c94dd408)
+
 Giao thức truyèn thông:
 - UART: giao tiếp giữa Arduino và ESP
 - SPI: giao tiếp giữa Arduino và RC-522
