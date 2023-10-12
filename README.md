@@ -14,16 +14,17 @@ Giao thức truyèn thông:
 - MQTT: giao tiếp giữa các ESP và trợ lý ảo với broker MQTT
 Sử dụng thư viện ESP8266WebServer và ngôn ngữ đánh dấu html,css tạo giao diện cho truy cập webserver ESP8266 để thực hiện điều khiển các cơ cấu chấp hành tương ứng
 
-https://www.youtube.com/watch?v=PdVACyaYFmE
-
 Xây dựng trợ lý ảo bằng python:
 - speech_recognition: Nhận dạng giọng nói thành văn bản
 - pyttsx3: Chuyển văn bản thành giọng nói
 - paho-mqtt: gửi nhận tin nhắn từ broker MQTT (mosquitto)
 - requests: gửi các yêu cầu HTTP và xử lý các phản hồi (lấy thông tin thời tiết từ openweaher)
+- subprocess: thực thi các lệnh hệ thống từ Python
 Chức năng trợ lý ảo:
 - Điều khiển các thiết bị trong nhà
 - Tra thông tin thời tiết
 - Thông báo lịch làm việc, mở nhạc
 
-[![haha](https://img.youtube.com/vi/WEzeviP4wOg/0.jpg)](https://www.youtube.com/watch?v=WEzeviP4wOg)
+Video thực hiện
+https://www.youtube.com/watch?v=PdVACyaYFmE
+https://www.youtube.com/watch?v=WEzeviP4wOg
