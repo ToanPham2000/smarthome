@@ -7,4 +7,9 @@ Mô hình nhà thông minh gồm chức năng:
 -	Cảm biến ánh sáng tự động bật tắt đèn.
 -	Bật tắt các thiết bị qua internet và giọng nói.
 ![z4568368815493_32c9d24dc2caa742c23726ae1a305c25](https://github.com/ToanPham2000/home/assets/142808050/bfd34531-00ae-4bde-8909-0c70c94dd408)
-Giao diện các nút nhấn bật tắt trên webserver ESP8266 để thực hiện điều khiển các cơ cấu chấp hành tương ứng:
+Sử dụng html,css tạo giao diện cho truy cập webserver ESP8266 để thực hiện điều khiển các cơ cấu chấp hành tương ứng:
+Xây dựng trợ lý ảo bằng python:
+- Thư viện:
+  - speech_recognition: Nhận dạng giọng nói thành văn bản
+  - pyttsx3: Chuyển văn bản thành giọng nói
+  - paho-mqtt: gửi nhận tin nhắn qua MQTT
