@@ -26,5 +26,5 @@ Chức năng trợ lý ảo:
 - Tra thông tin thời tiết
 - Thông báo lịch làm việc, mở nhạc
 
-<iframe width="887" height="499" src="https://www.youtube.com/embed/WEzeviP4wOg" title="Điều khiển mô hình nhà thông minh bằng giọng nói" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=WEzeviP4wOg
 
