@@ -6,6 +6,7 @@ Mô hình nhà thông minh gồm chức năng:
 -	Cảm biến nước mưa tự động thu quần áo.
 -	Cảm biến ánh sáng tự động bật tắt đèn.
 -	Bật tắt các thiết bị qua internet và giọng nói.
+
 ![z4568368815493_32c9d24dc2caa742c23726ae1a305c25](https://github.com/ToanPham2000/home/assets/142808050/bfd34531-00ae-4bde-8909-0c70c94dd408)
 ![image](https://github.com/ToanPham2000/smarthome/assets/142808050/bab8a495-cddb-420e-a28a-8c5a5dcc1484)
 
@@ -14,6 +15,7 @@ Giao thức truyèn thông:
 - SPI: giao tiếp giữa Arduino và RC-522
 - MQTT: giao tiếp giữa các ESP và trợ lý ảo thông qua broker MQTT
 Sử dụng thư viện ESP8266WebServer và ngôn ngữ đánh dấu html,css tạo giao diện cho truy cập webserver ESP8266 để thực hiện điều khiển các cơ cấu chấp hành tương ứng
+
 ![image](https://github.com/ToanPham2000/smarthome/assets/142808050/3533aba3-0be6-4638-a3e6-76b13a181287)
 
 Xây dựng trợ lý ảo bằng python:
