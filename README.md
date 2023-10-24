@@ -14,6 +14,7 @@ Giao thức truyèn thông:
 - UART: giao tiếp giữa Arduino và ESP
 - SPI: giao tiếp giữa Arduino và RC-522
 - MQTT: giao tiếp giữa các ESP và trợ lý ảo thông qua broker MQTT
+
 Sử dụng thư viện ESP8266WebServer và ngôn ngữ đánh dấu html,css tạo giao diện cho truy cập webserver ESP8266 để thực hiện điều khiển các cơ cấu chấp hành tương ứng
 
 ![image](https://github.com/ToanPham2000/smarthome/assets/142808050/3533aba3-0be6-4638-a3e6-76b13a181287)
