@@ -9,6 +9,7 @@ Mô hình nhà thông minh gồm chức năng:
 
 ![z4568368815493_32c9d24dc2caa742c23726ae1a305c25](https://github.com/ToanPham2000/home/assets/142808050/bfd34531-00ae-4bde-8909-0c70c94dd408)
 ![image](https://github.com/ToanPham2000/smarthome/assets/142808050/bab8a495-cddb-420e-a28a-8c5a5dcc1484)
+![image](2023_1022_16382900.png)
 
 Giao thức truyèn thông:
 - UART: giao tiếp giữa Arduino và ESP
