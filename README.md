@@ -7,12 +7,16 @@ Mô hình nhà thông minh gồm chức năng:
 -	Cảm biến ánh sáng tự động bật tắt đèn.
 -	Bật tắt các thiết bị qua internet và giọng nói.
 
+![mo_hinh_smarthome](https://github.com/ToanPham2000/smarthome/assets/142808050/45c28054-70d2-4303-aafc-12a21d360d7a)
+
 Giao thức truyèn thông:
 - UART: giao tiếp giữa Arduino và ESP
 - SPI: giao tiếp giữa Arduino và RC-522
 - MQTT: giao tiếp giữa các ESP và trợ lý ảo thông qua broker MQTT
 
 Sử dụng thư viện ESP8266WebServer và ngôn ngữ đánh dấu html,css tạo giao diện cho truy cập webserver ESP8266 để thực hiện điều khiển các cơ cấu chấp hành tương ứng
+
+![image](https://github.com/ToanPham2000/smarthome/assets/142808050/e9369747-684b-421a-a223-5dbf479dfad7)
 
 Xây dựng trợ lý ảo bằng python:
 - Thư viện sử dụng:
